@@ -1011,7 +1011,7 @@ var KTWidgets = function () {
                 colors: ['transparent']
             },
             xaxis: {
-                categories: ['Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
+                categories: ['Berçario 1', 'Berçario 2', 'Maternal 1', 'Maternal 2'],
                 axisBorder: {
                     show: false,
                 },
